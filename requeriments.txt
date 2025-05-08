@@ -1,0 +1,7 @@
+pickle
+locale
+pandas
+streamlit
+datetime
+io
+bs4
